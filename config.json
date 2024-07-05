@@ -8,7 +8,7 @@
     "text": " Maria Alice"
   },
   "text": {
-    "more": "Relacionamento dirigido entre pares da lideranças",
+    "more": "Relacionamento entre pares da lideranças",
     "intro": "Análise de rede organizacional epharma ",
     "title": "ONA MS Graph"
   },
@@ -24,7 +24,7 @@
   },
   "informationPanel": {
     "groupByEdgeDirection": true,
-    "imageAttribute": "Foto"
+    "imageAttribute": false
   },
   "sigma": {
     "drawingProperties": {
