@@ -2,9 +2,6 @@
   "type": "network",
   "version": "1.0",
   "data": "data.json",
-  "zoomMin": 0.1,
-  "zoomMax": 10,
-  "zoomDef": 1,
   "logo": {
     "file": "https://epharma.com.br/wp-content/uploads/2021/08/logo-epharma.png",
     "link": "",
@@ -27,7 +24,7 @@
   },
   "informationPanel": {
     "groupByEdgeDirection": true,
-    "imageAttribute": false
+    "imageAttribute": "Foto"
   },
   "sigma": {
     "drawingProperties": {
