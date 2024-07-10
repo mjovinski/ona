@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Modularity Class",
+    "groupSelectorAttribute": "Inferred Class",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
